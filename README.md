@@ -1,6 +1,5 @@
 [![curseforge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/curseforge_vector.svg)](https://www.curseforge.com/minecraft/modpacks/ol-reliable)
-![modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_vector.svg)
-(https://modrinth.com/modpack/ol-reliable)
+[![modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_vector.svg)](https://modrinth.com/modpack/ol-reliable)
 
 # Wait, so what is this?
 Ol' Reliable is a Minecraft ModPack that I have been working on for some time. The aim of this project is to create a pack that is, reliable (I mean, it's kinda in the name). Ol' Reliable has many mods that are great utilities for those who enjoy a chill single-player experience. Or create havoc, it's up to you. Currently, I have this project in versions between 1.21.5 and 1.18.1-ish, but I am working on getting more versions out.
