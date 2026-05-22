@@ -1,30 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".idea/misc.xml"
-hash = "dadca3598a852f247fa5dd79e175977445a375ae62e42162844457e4234d86e4"
-
-[[files]]
-file = ".idea/modules.xml"
-hash = "169a8da213e8c2837caf00edf1b321ff91f0c0bb542bbe8565871a72a1c1e496"
-
-[[files]]
-file = ".idea/ol-reliable-modpack-modrinth.iml"
-hash = "c96ea0b5b29abb7d5807671dd208fd63f63694dd236335d2fe8c074e89e94aa6"
-
-[[files]]
-file = ".idea/shelf/Uncommitted_changes_before_Update_at_5_21_2026_6_42_PM_[Changes]/shelved.patch"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = ".idea/shelf/Uncommitted_changes_before_Update_at_5_21_2026_6_42_PM__Changes_.xml"
-hash = "001d27d6bd601ad86923651de664eaf3d2569fe51de9388b12f844de54bb3d4c"
-
-[[files]]
-file = ".idea/vcs.xml"
-hash = "62be7e0a7f84ab3c35b4d4bafb890a4951d061eadafde1a10aa3f5d0406db5df"
-
-[[files]]
 file = "LICENSE"
 hash = "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
 
