@@ -10,6 +10,7 @@ url = "https://raw.githubusercontent.com/LittlePerson101/Ol-Reliable-Modpack-Mod
 file = "index.toml"
 hash-format = "sha256"
 hash = "96f9f83572971929de4356796c646e98008d5a0c3ebffd1905f5ed0dae2e7330"
+ignored-files = [".idea/**"]
 
 [versions]
 fabric = "0.17.3"
