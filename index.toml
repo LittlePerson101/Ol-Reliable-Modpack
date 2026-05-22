@@ -25,10 +25,6 @@ file = ".idea/vcs.xml"
 hash = "62be7e0a7f84ab3c35b4d4bafb890a4951d061eadafde1a10aa3f5d0406db5df"
 
 [[files]]
-file = ".idea/workspace.xml"
-hash = "606d16f5a4fc694f2cb68cd49072ff26bded10223a6dd69db6553b8793184718"
-
-[[files]]
 file = "LICENSE"
 hash = "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
 
@@ -435,6 +431,10 @@ hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
 [[files]]
 file = "packwiz-installer.jar"
 hash = "c9f646908d340d84773948a9a7d98bc1dae250d35e1016dc6e2b8459760b5598"
+
+[[files]]
+file = "packwiz.json"
+hash = "578adafb2d96d1c62fc83075f0bb6916d892b04b286ae0b9e03ff618bc2f4084"
 
 [[files]]
 file = "resourcepacks/FA+All_Extensions-v1.8.1.zip"
