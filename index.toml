@@ -26,7 +26,7 @@ hash = "62be7e0a7f84ab3c35b4d4bafb890a4951d061eadafde1a10aa3f5d0406db5df"
 
 [[files]]
 file = ".idea/workspace.xml"
-hash = "9e5984aac188c27a4f42ecf01f4b0ac1edccece300caf4b224d4ecca20bf0538"
+hash = "6068a9ebfcd3e8fa88ac9f799dc6cb2f85052a9d6e2fbced221c9cf51f608d88"
 
 [[files]]
 file = "LICENSE"
@@ -323,6 +323,14 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "95351a8e1eacbfe181024d281f5b87c93dd545319a21b5dd30ba45e4c8a94678"
 metafile = true
+
+[[files]]
+file = "packwiz-installer-bootstrap.jar"
+hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
+
+[[files]]
+file = "packwiz-installer.jar"
+hash = "c9f646908d340d84773948a9a7d98bc1dae250d35e1016dc6e2b8459760b5598"
 
 [[files]]
 file = "resourcepacks/fast-better-grass.pw.toml"
