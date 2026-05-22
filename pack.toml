@@ -3,14 +3,10 @@ author = "LittlePerson101"
 version = "2.0.0"
 pack-format = "packwiz:1.1.0"
 
-[download]
-url = "https://raw.githubusercontent.com/LittlePerson101/Ol-Reliable-Modpack-Modrinth/1.21.x/pack.toml"
-
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "96f9f83572971929de4356796c646e98008d5a0c3ebffd1905f5ed0dae2e7330"
-ignored-files = [".idea/**"]
+hash = "da1c4dce3cf53b28319c935005bb19a589ff3b4a067f344eeb79de1d5a682130"
 
 [versions]
 fabric = "0.17.3"
