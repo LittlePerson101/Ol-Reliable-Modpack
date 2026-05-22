@@ -26,7 +26,7 @@ hash = "62be7e0a7f84ab3c35b4d4bafb890a4951d061eadafde1a10aa3f5d0406db5df"
 
 [[files]]
 file = ".idea/workspace.xml"
-hash = "4fe004362efdd22a92656bf512cac5edb46890052d855a135833444e5a254dda"
+hash = "7b2fda99735a3216e880ab864ab636a37d19ca8f4a68a23847f230f4c1f53f83"
 
 [[files]]
 file = "LICENSE"
@@ -339,17 +339,17 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-animations-extensions.pw.toml"
-hash = "b8cd8f8475f65bdefa21a248e6b72bbd566c850878d0303e25e4911bc6025065"
+hash = "a609bfde1f92ebb5c5462a9a7aa0464888b5bdb271392c81787ff3e27239ce4a"
 metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
-hash = "15f5872ee75d21be2e6cbd25669e423a2a764312562e5cdfdc4e34af160dc6d3"
+hash = "6a1556a0e4fcb411b33efafc3382b4abd9a6e671f140dc0d42e9aad2808e24f3"
 metafile = true
 
 [[files]]
 file = "resourcepacks/low-on-fire.pw.toml"
-hash = "9532816a020467d30459bbd3f42806916ffd33f79b1fdbae5e7b25a3af71a372"
+hash = "3de08682f1efe89c598c7145469d53d114714ea157104d0cc56a56b2e7b54160"
 metafile = true
 
 [[files]]
