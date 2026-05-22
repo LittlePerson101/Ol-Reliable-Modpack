@@ -1,0 +1,13 @@
+name = "project-1207432"
+filename = "malilib-fabric-1.21.10-rc1-0.26.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d672cebf95b97514d8c2e47fe70542ba372b970f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7090999
+project-id = 1207432

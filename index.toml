@@ -1,0 +1,350 @@
+hash-format = "sha256"
+
+[[files]]
+file = ".idea/misc.xml"
+hash = "dadca3598a852f247fa5dd79e175977445a375ae62e42162844457e4234d86e4"
+
+[[files]]
+file = ".idea/modules.xml"
+hash = "169a8da213e8c2837caf00edf1b321ff91f0c0bb542bbe8565871a72a1c1e496"
+
+[[files]]
+file = ".idea/ol-reliable-modpack-modrinth.iml"
+hash = "c96ea0b5b29abb7d5807671dd208fd63f63694dd236335d2fe8c074e89e94aa6"
+
+[[files]]
+file = ".idea/shelf/Uncommitted_changes_before_Update_at_5_21_2026_6_42_PM_[Changes]/shelved.patch"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = ".idea/shelf/Uncommitted_changes_before_Update_at_5_21_2026_6_42_PM__Changes_.xml"
+hash = "001d27d6bd601ad86923651de664eaf3d2569fe51de9388b12f844de54bb3d4c"
+
+[[files]]
+file = ".idea/vcs.xml"
+hash = "62be7e0a7f84ab3c35b4d4bafb890a4951d061eadafde1a10aa3f5d0406db5df"
+
+[[files]]
+file = ".idea/workspace.xml"
+hash = "9e5984aac188c27a4f42ecf01f4b0ac1edccece300caf4b224d4ecca20bf0538"
+
+[[files]]
+file = "LICENSE"
+hash = "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
+
+[[files]]
+file = "README.md"
+hash = "60de17313d276f8dfef0743956090fe884bacbaea5003111ac5bc308d9a59152"
+
+[[files]]
+file = "complementary-reimagined.pw.toml"
+hash = "9f8e443df6075210eef82f35c5f95db92c19d7b1a1267a4593fa97c079993ed6"
+metafile = true
+
+[[files]]
+file = "complementary-unbound.pw.toml"
+hash = "006170836f3180d229a6b95e1b33c060d7afcd0755273669faf78e86f50579ed"
+metafile = true
+
+[[files]]
+file = "config/chat_heads.json5"
+hash = "2e33e5590888ad9c37d35ef6ef29d50e8ab7430ee7fd572a69b3583428abebf9"
+
+[[files]]
+file = "config/continuity.json"
+hash = "cabe00d1fd6091202d1180bd86d31bca69a5999a43317c3a77aea94da4f76016"
+
+[[files]]
+file = "config/dynamic_fps.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "config/entity_model_features.json"
+hash = "a409f75f21a3189f06c4edf5bf6b613c3c6275147c8b51ae1e1c46e8e8cdb8ef"
+
+[[files]]
+file = "config/entity_texture_features.json"
+hash = "0554c0e7816266477c65c18d2ada9fdddf1c6750787efd329056223ca4a073b2"
+
+[[files]]
+file = "config/etf_warnings.json"
+hash = "a5ba22e63061c1fb67f0f895f17681351eaeccc225faef966c29ee630593275e"
+
+[[files]]
+file = "config/fabric/indigo-renderer.properties"
+hash = "d7ecb5dfca5d7f3657d7f1cc12992014d65c72777a3ab1c841dd5040ae5f4848"
+
+[[files]]
+file = "config/freecam.json5"
+hash = "442d3c73c8d0c64a2445ef0c31b618db0034a2f452bf15751ec337287f34ef0c"
+
+[[files]]
+file = "config/gammautils.json"
+hash = "b10b39fd6ae41165850f76e097ff47ccaa3ca76e50abdbc0570b2941c0228749"
+
+[[files]]
+file = "config/immediatelyfast.json"
+hash = "d9dbf869e3879f7ac4fc5b40073eacaeaafa35d4cd693e9884005e932f92b47d"
+
+[[files]]
+file = "config/iris-excluded.json"
+hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
+
+[[files]]
+file = "config/iris.properties"
+hash = "e91fdf95ec23bffe85425cefded8489d5b3d47b2fcbb765fc58036ab183c1d96"
+
+[[files]]
+file = "config/litematica.json"
+hash = "926e44f375005fc6d6c0ca16c372bac8fe14b561f0ad3f3d531b1f3eff875e97"
+
+[[files]]
+file = "config/litematica/litematica_New World.json"
+hash = "12174fd2e7b7105aa4aa98a486df7baa470fd770ff30a731cf314c4fd571701a"
+
+[[files]]
+file = "config/litematica/litematica_New World_dim_minecraft_overworld.json"
+hash = "adcadb841e38244e0121845e5c11366cb7fca48d1e6518db75eb8369eb9cc582"
+
+[[files]]
+file = "config/litematica/litematica_Redstone.json"
+hash = "12174fd2e7b7105aa4aa98a486df7baa470fd770ff30a731cf314c4fd571701a"
+
+[[files]]
+file = "config/litematica/litematica_Redstone_dim_minecraft_overworld.json"
+hash = "adcadb841e38244e0121845e5c11366cb7fca48d1e6518db75eb8369eb9cc582"
+
+[[files]]
+file = "config/malilib.json"
+hash = "33d9f347c14aeaa05b845cb56a9704e979f0aa54c29165827f2980a688f344f6"
+
+[[files]]
+file = "config/modmenu.json"
+hash = "16d20c40cc6c114faff5493b561873fe160a65047720bc19fb3a3dd64aa67f3b"
+
+[[files]]
+file = "config/replaymod.json"
+hash = "61c3ad5052b81072e004150c08ceb7de10f7aede31bb7c6a721a6239b94977c7"
+
+[[files]]
+file = "config/sodium-fingerprint.json"
+hash = "09af7a3a9b6c444f1982a94db743aa3eec0b30cb735774f0e410b38f2917439b"
+
+[[files]]
+file = "config/sodium-mixins.properties"
+hash = "b627c4456e6fa0bc4b5f85e2f1cd949faedae3cb9afdaf2a5f52e6f3b6ae1f01"
+
+[[files]]
+file = "config/sodium-options.json"
+hash = "d3482af3895ad31a3b9c59b26807eb9944ede706b3d314668ad83c94d61bd195"
+
+[[files]]
+file = "config/voicechat/category-volumes.properties"
+hash = "94c1c4f70e5b995fbd71e86d4fa646030437fecae0685875b560a55fbd0d0e56"
+
+[[files]]
+file = "config/voicechat/player-volumes.properties"
+hash = "0332261861a5ace96f503e85b0d48a8df74ea6c2f3545cd229543a6afb55ad96"
+
+[[files]]
+file = "config/voicechat/translations.properties"
+hash = "693643b1d393cbb3ea7f062afc4474fcd66e4036c4f8d7c056434979cbf512d1"
+
+[[files]]
+file = "config/voicechat/username-cache.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "config/voicechat/voicechat-client.properties"
+hash = "99a7e562d80a1c1535b024dc32ba58bd1d6702d64a4a82ae871f52821e83d182"
+
+[[files]]
+file = "config/voicechat/voicechat-server.properties"
+hash = "4d0be0e743b48609d932f435f0dd496041c6eb0356691ef5c22b786d137987a3"
+
+[[files]]
+file = "config/worldedit/worldedit.properties"
+hash = "39cb59d879fed3a2cd40a0a01f3f33543f964fb124561e33aeadb61a6416b892"
+
+[[files]]
+file = "config/xaerominimap-common.txt"
+hash = "771a844d13ab6c2ff99f14b8fd912d02c55a1a4104361692b740c3e596084f6f"
+
+[[files]]
+file = "config/xaerominimap.txt"
+hash = "71cffe7689e579cdf95700b08791f8382f9ae4e9709c5f6f4addc736f145ab3e"
+
+[[files]]
+file = "config/xaerominimap_entities.json"
+hash = "8ec85ecdff2a7b60389a80cbffa420876fcf83b3a72120e3564076da50dc3fca"
+
+[[files]]
+file = "config/xaeropatreon.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/yacl.json5"
+hash = "121b93764159be6fb7dab523b29a844e2bb78400ce8c48f52135a097e9b0006e"
+
+[[files]]
+file = "config/zoomify.json"
+hash = "60a78fe1b271ce9b53e295235eb5a7cdb3a8692ca583fdaa7f5bc09f9049e2f4"
+
+[[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "c1ee4714f23846f70b6a150d965990264eda55a9e213c1baa8472a7be05a12f9"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "de8e021e0beacab839ca3bd4dfdb30fa5f3cfd1e71be722ccf56373908b41a7f"
+metafile = true
+
+[[files]]
+file = "mods/clumps.pw.toml"
+hash = "889cb759a121b2fd81c047fc23d2ece453a31870435e7ee992d014219a01c603"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+hash = "ebb83ff56fd213d1e0efb57d59a89a6c864c7be63436e028fec02878b300e426"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "10916b552d45d65fbf872a5649c4d767cba25700b01e19918de0c0ae7962ba1c"
+metafile = true
+
+[[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "f4919e8852bd9d4a890eb19ff87070b80b575453a189ac41510775f100fe8d90"
+metafile = true
+
+[[files]]
+file = "mods/entity-texture-features-fabric.pw.toml"
+hash = "1216b6a5ad4ffceaf82ab6bab330499d346cf907db8dea6054537744f88c5b59"
+metafile = true
+
+[[files]]
+file = "mods/essential-mod.pw.toml"
+hash = "f54947e80a644e3378db7e1a1a3d6445bcb730647a4274014f7314bbf35ff3e2"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "189134fe48404ea4f716f6ee705d5af668a493264c1af07b02ce18113b346de9"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "94f000249d21c4fc3b7744f9579bb6ac0d48e6bf4860fad16f23c997950a47f3"
+metafile = true
+
+[[files]]
+file = "mods/fast-ip-ping.pw.toml"
+hash = "21f6ddbd4b315c5442036b42021ef9e6c43271f9aabfb9420ae3843d3ee139ca"
+metafile = true
+
+[[files]]
+file = "mods/free-cam.pw.toml"
+hash = "2de90753ffd44eaaa3b765bcdb1253d7100b2f40c6bad24bbf50881d082650e6"
+metafile = true
+
+[[files]]
+file = "mods/gamma-utils.pw.toml"
+hash = "7ed52ba9f2792f3d6339acf96ab0e947bc5a048acdef0b2f45f18aa8a4d4173c"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "e858e430cbe0b2d5faf1463d52673bb571b6673526088bd457202ceb85fc2984"
+metafile = true
+
+[[files]]
+file = "mods/irisshaders.pw.toml"
+hash = "427b4d017b83401708e96e36f11f11c7474365011b108b255f69e000ecc6422c"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "571d53be7a248e0961bf769252695b996e14c5daa70a298c52877844ebc8b20f"
+metafile = true
+
+[[files]]
+file = "mods/project-1205459.pw.toml"
+hash = "a5db2af88b32c364f5199552c3b4e1dac9b4c82c84bbd5d651f0d38521e20bdf"
+metafile = true
+
+[[files]]
+file = "mods/project-1207432.pw.toml"
+hash = "05080a11c6e90cf98195658bc73e3e87f777d3ba552b83b5d39c88dc92fb5dbf"
+metafile = true
+
+[[files]]
+file = "mods/replaymod-1.21.10-2.6.24.jar"
+hash = "3a57a51689d781f55e49a654c61eef5ab6ccdcbfab073a69fbe96aa93d6444e8"
+
+[[files]]
+file = "mods/shulkerboxtooltip.pw.toml"
+hash = "86b74fc94086ea94fad72eb3e915c6d4e49d88cdddb3d13a43f36d074f2ba2c7"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "0dddfa777706acc5ed3175738f377e95c07bf2e88d549138d5b0d2518c2f88a2"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "24aa12652da15e0e2d788a4cc2144ef908d6b4a792b644becd64ca3e1bfe4fe7"
+metafile = true
+
+[[files]]
+file = "mods/text-placeholder-api.pw.toml"
+hash = "c5fdf842ac50d5992853c9c6f073d876d358913b161498eb2f52b1de58d2a390"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "1cae54637a8e83cc03ae463cee4b7229eef314a1d8b2ae7df6823f21d30540f6"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "01304e11d8d4cdf1c6a4b02372ecbe603674bba606e0527f886fcc06a8ce35a3"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "95fd0f631bd6bbfbca373ec71892f50e640f3d9c92c8c901249df56bd817314c"
+metafile = true
+
+[[files]]
+file = "mods/zoomify.pw.toml"
+hash = "95351a8e1eacbfe181024d281f5b87c93dd545319a21b5dd30ba45e4c8a94678"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fast-better-grass.pw.toml"
+hash = "bb7d05bb7097173a4193e7a82b554d5748a849db9fd65c8515d7564f2988e656"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations-extensions.pw.toml"
+hash = "b8cd8f8475f65bdefa21a248e6b72bbd566c850878d0303e25e4911bc6025065"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations.pw.toml"
+hash = "15f5872ee75d21be2e6cbd25669e423a2a764312562e5cdfdc4e34af160dc6d3"
+metafile = true
+
+[[files]]
+file = "resourcepacks/low-on-fire.pw.toml"
+hash = "9532816a020467d30459bbd3f42806916ffd33f79b1fdbae5e7b25a3af71a372"
+metafile = true
+
+[[files]]
+file = "solas-shader.pw.toml"
+hash = "4cc875190ee86d1c79701c350adc1e8739a78ee5e51c76fa6723cc253fba2093"
+metafile = true

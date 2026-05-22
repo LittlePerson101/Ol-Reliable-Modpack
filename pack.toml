@@ -1,0 +1,16 @@
+name = "Ol' Reliable Fabric"
+author = "LittlePerson101"
+version = "2.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "93dea710c2e812966286d85c668f81f2022261068a460656b28306a30b29fd3a"
+
+[versions]
+fabric = "0.17.3"
+minecraft = "1.21.10"
+
+[options]
+acceptable-game-versions= ["1.21.11", "1.21.10", "1.21.8", "1.21.7", "1.21.6", "1.21.5", "1.21.4", "1.21.3", "1.21.1", "1.21"]
